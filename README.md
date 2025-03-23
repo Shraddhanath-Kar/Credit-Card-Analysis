@@ -18,4 +18,4 @@
 •	Females, whether single or married, have the top three monthly spending categories: Bills, Travel, and Health & Wellness.
 •	► For the 35-45 age group,
 •	males, whether single or married, have the top three monthly spending categories: Bills, Groceries, and Electronics.
-•	Females, whether single or married, have the top three monthly spending categories: Health and wellness, Bills, and Groceries. this is the project insights. now tell me what should i highlight on resume about the project
+•	Females, whether single or married, have the top three monthly spending categories: Health and wellness, Bills, and Groceries.
